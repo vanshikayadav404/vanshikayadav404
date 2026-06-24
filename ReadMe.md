@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://leetcode.com/u/codeclove/" target="blank">
+<a href="https://leetcode.com/u/vanshikayadav404/" target="blank">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
 </a>
 
