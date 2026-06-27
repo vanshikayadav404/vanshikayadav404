@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vanshika Yadav</h1>
+<h1 align="center">Hi, I'm Vanshika Yadav</h1>
 
 <h3 align="center">Software Developer | DSA Enthusiast | Backend Developer</h3>
 
