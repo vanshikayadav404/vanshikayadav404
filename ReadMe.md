@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Vanshika Yadav 👋</h1>
+<h1 align="center">Hi, I'm Vanshika Yadav</h1>
 
-<h3 align="center">Java Developer | Backend Developer | Cloud & DSA Learner</h3>
+<h3 align="center">Aspiring Software Engineer | Java Developer | DSA Learner</h3>
 
 <p align="center">
   <a href="https://github.com/vanshikayadav404">
