@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Vanshika Yadav 👋</h1>
 
 <h3 align="center">Java Developer | Backend Developer | Cloud & DSA Learner</h3>
@@ -124,4 +123,3 @@ Learning in public • One commit at a time 🚀
 **— John Johnson**
 
 </p>
-```
