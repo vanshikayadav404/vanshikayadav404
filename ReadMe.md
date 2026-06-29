@@ -118,8 +118,8 @@ Learning in public • One commit at a time 🚀
 
 <p align="center">
 
-> *"First, solve the problem. Then, write the code."*
+> *"Every bug is a lesson. Every commit is progress."*
 
-**— John Johnson**
+**— Chat GPT**
 
 </p>
