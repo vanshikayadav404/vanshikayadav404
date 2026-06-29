@@ -48,7 +48,7 @@ Learning in public • One commit at a time 🚀
 <h3 align="center">Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript,html,css" />
 </p>
 
 <h3 align="center">Tools & Technologies</h3>
