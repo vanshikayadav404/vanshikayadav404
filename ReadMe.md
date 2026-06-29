@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Learning in public • One commit at a time 🚀
+Learning in public • One commit at a time 
 </p>
 
 ---
