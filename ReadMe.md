@@ -67,7 +67,6 @@ Learning in public • One commit at a time
 <a href="https://www.geeksforgeeks.org/css/css-introduction/" target="_blank">
 <img src="https://skillicons.dev/icons?i=css" height="55"/>
 </a>
-<img src="https://skillicons.dev/icons?i=java,c,javascript,html,css" />
 </p>
 
 <h3 align="center">Tools & Technologies</h3>
