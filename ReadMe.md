@@ -72,7 +72,29 @@ Learning in public • One commit at a time
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,idea,vscode" />
+  <a href="https://www.geeksforgeeks.org/git/git-tutorial/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/git/introduction-to-github/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/git/github-actions/" target="_blank">
+<img src="https://skillicons.dev/icons?i=githubactions" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/devops/aws-tutorial/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/java/creating-first-java-application-in-intellij-idea/" target="_blank">
+<img src="https://skillicons.dev/icons?i=idea" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/c-sharp/introduction-to-visual-studio/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+</a>
 </p>
 
 ---
