@@ -48,6 +48,25 @@ Learning in public • One commit at a time
 <h3 align="center">Languages</h3>
 
 <p align="center">
+  <a href="https://www.geeksforgeeks.org/java/java/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/c/c-language-introduction/" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/javascript/javascript-tutorial/" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/html/html-introduction/" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/css/css-introduction/" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+</a>
 <img src="https://skillicons.dev/icons?i=java,c,javascript,html,css" />
 </p>
 
