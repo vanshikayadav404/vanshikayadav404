@@ -11,7 +11,6 @@
 <p align="center">
 Learning in public • One commit at a time 
 </p>
-
 ---
 
 <h2 align="center">🚀 About Me</h2>
