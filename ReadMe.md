@@ -1,12 +1,30 @@
-<h1 align="center">Hello, I'm Vanshika Yadav</h1>
+<h1  align="center "> 
+<svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6a0dad"/>
+      <stop offset="100%" stop-color="#b026ff"/>
+    </linearGradient>
+  </defs>
 
-<h3 align="center">Aspiring Software Engineer | Java Developer | DSA Learner</h3>
+  <text x="50%" y="55%" text-anchor="middle"
+        fill="url(#grad)"
+        font-size="42"
+        font-family="Verdana">
+    Vanshika Yadav
+  </text>
+</svg>
+</h1>
+
+<h3 align="center">
+• Cloud Enthusiast • DevOps
+</h3>
 
 <p align="center">
-  <a href="https://github.com/vanshikayadav404">
-    <img src="https://komarev.com/ghpvc/?username=vanshikayadav404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Cloud+Enthusiast;Java+%2B+Spring+Boot" />
 </p>
+
+<p align="center">
 
 <p align="center">
 Learning in public • One commit at a time 
